@@ -20,5 +20,5 @@ This directory contains shell scripts to demonstrate shell redirections and spec
 1. Clone the repository: `git clone https://github.com/your-username/alx-system_engineering-devops.git`
 2. Navigate to the `0x02-shell_redirections` directory: `cd alx-system_engineering-devops/0x02-shell_redirections`
 3. Execute the scripts: `./script_name.sh`
-
+4. 2-hellofile: A script that displays the content of the /etc/passwd file.
 ## Temitope
