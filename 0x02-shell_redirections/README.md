@@ -21,4 +21,7 @@ This directory contains shell scripts to demonstrate shell redirections and spec
 2. Navigate to the `0x02-shell_redirections` directory: `cd alx-system_engineering-devops/0x02-shell_redirections`
 3. Execute the scripts: `./script_name.sh`
 4. 2-hellofile: A script that displays the content of the /etc/passwd file.
+5. 3-twofiles: A script that displays the content of both the /etc/passwd and /etc/hosts files.
+6. 5-firstlines`: A script that displays the first 10 lines of the `/etc/passwd` file.
+7. `6-third_line`: A script that displays the third line of the file `iacta`.
 ## Temitope
